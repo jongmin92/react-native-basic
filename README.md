@@ -16,7 +16,7 @@
 ## 시작하기
 
 ### Prerequisites
-리엑트 네이티브로 프로젝트를 하기 위해서는 Node.js, Watchman, the React Native command line interface, and Xcode가 필요합니다.
+리엑트 네이티브로 프로젝트를 하기 위해서는 Node.js, Watchman, the React Native command line interface, and Xcode가 필요합니다. 해당 프로젝트들은 React Native 0.39 버전을 사용했습니다.
 [공식홈페이지](https://facebook.github.io/react-native/docs/getting-started.html)를 참고해서 자신의 OS에 맞게 설치합니다.
 
 ### Install node module
